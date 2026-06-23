@@ -2,11 +2,19 @@
 
 <h3 align="center">
   <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
-  +
+  
   <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
-  +
+  
   <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
-  +
+</h3>
+
+<h3 align="center">
+  <b><a href="https://obby.wiki">Home</a></b>
+  •
+  <a href="https://obby.wiki/Special:Version">Special:Version</a>
+  •
+  <a href="https://obby.wiki">Home</a>
+  •
   <a href="https://obby.wiki">Home</a>
 </h3>
 
