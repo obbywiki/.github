@@ -1,12 +1,12 @@
 <img width="1920" height="512" alt="Obby Wiki GitHub cover" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/banner.png" />
 
-<div align="center" class="image-gallery">
-  <ul>
+<div align="center">
+  <ul align="center">
     <li><a href="https://obby.wiki/OW:About"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" /></a></li>
   
 <li><a href="https://obby.wiki/Help:Contributing"><img width="254" height="57" alt="Contibuting to the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/contributing.svg" style="border-radius: 1.8rem; !important" /></a></li>
 
-<li><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" /></li>
+<li><a href="#"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" /></a></li>
   </ul>
 </h3>
 
