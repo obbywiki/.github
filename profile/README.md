@@ -11,9 +11,9 @@
   <b>＋</b>
   <a href="https://obby.wiki/Special:Version">Special:Version</a>
   <b>＋</b>
-  <a href="https://obby.wiki">Home</a>
+  <a href="https://obby.wiki/Category:June_2026">June 2026</a>
   <b>＋</b>
-  <a href="https://obby.wiki">Home</a>
+  <a href="https://github.com/obbywiki/modules">Content</a>
 </h3>
 
 Welcome to the Obby Wiki's public GitHub profile!
