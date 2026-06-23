@@ -1,4 +1,4 @@
-<img width="1920" height="512" alt="Obby Wiki GitHub cover" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/banner.png" />
+<img width="1920" height="512" alt="Obby Wiki GitHub cover" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/banner.webp" />
 
 <p align="center">
     <a href="https://obby.wiki/OW:About"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.svg" style="border-radius: 1.8rem; !important" /></a>
