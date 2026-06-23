@@ -1,9 +1,17 @@
 <img width="1920" height="512" alt="Obby Wiki GitHub cover" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/banner.png" />
 
+<h3 align="center">
+  <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
+  +
+  <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
+  +
+  <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
+  +
+  <a href="https://obby.wiki">Home</a>
+</h3>
+
 Welcome to the Obby Wiki's public GitHub profile!
 
 The Obby Wiki is an independent and community-run wiki/encyclopedia dedicated to documenting Roblox obby games (obbies), their creators, mechanics, conventions, terminology, etc. Our goal is to provide the most comprehensive, accurate, and complete information about as many obbies as possible and in as much detail as possible.
 
 You can learn more about the Obby Wiki at this page: https://obby.wiki/OW:About, or visit the wiki here: https://obby.wiki
-
-<img width="421" height="114" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem;" />
