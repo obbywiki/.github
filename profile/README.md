@@ -1,7 +1,7 @@
 <img width="1920" height="512" alt="Obby Wiki GitHub cover" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/banner.png" />
 
 <h3 align="center">
-  <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
+  <a href="https://obby.wiki/OW:About"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" /></a>
   
   <img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" />
   
