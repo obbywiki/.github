@@ -6,4 +6,4 @@ The Obby Wiki is an independent and community-run wiki/encyclopedia dedicated to
 
 You can learn more about the Obby Wiki at this page: https://obby.wiki/OW:About, or visit the wiki here: https://obby.wiki
 
-<img width="421" height="114" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" />
+<img width="421" height="114" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem;" />
