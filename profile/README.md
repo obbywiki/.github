@@ -1,18 +1,18 @@
 <img width="1920" height="512" alt="Obby Wiki GitHub cover" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/banner.png" />
 
 <p align="center">
-    <a href="https://obby.wiki/OW:About"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" /></a>
+    <a href="https://obby.wiki/OW:About"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.svg" style="border-radius: 1.8rem; !important" /></a>
     <a href="https://obby.wiki/Help:Contributing"><img width="254" height="57" alt="Contibuting to the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/contributing.svg" style="border-radius: 1.8rem; !important" /></a>
-    <a href="#"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/about.gif" style="border-radius: 1.8rem; !important" /></a>
+    <a href="https://github.com/orgs/obbywiki/repositories"><img width="210.5" height="57" alt="About the Obby Wiki" src="https://raw.githubusercontent.com/obbywiki/.github/refs/heads/main/assets/projects.svg" style="border-radius: 1.8rem; !important" /></a>
 </h3>
 
 <h3 align="center">
   <b><a href="https://obby.wiki">Home</a></b>
-  <b>+</b>
+  <b>＋</b>
   <a href="https://obby.wiki/Special:Version">Special:Version</a>
-  <b>+</b>
+  <b>＋</b>
   <a href="https://obby.wiki">Home</a>
-  <b>+</b>
+  <b>＋</b>
   <a href="https://obby.wiki">Home</a>
 </h3>
 
