@@ -13,7 +13,7 @@
   <b>＋</b>
   <a href="https://obby.wiki/Special:Version">Special:Version</a>
   <b>＋</b>
-  <a href="https://github.com/obbywiki/modules">Content Repo (now public!)</a>
+  <a href="https://github.com/obbywiki/modules">Content Repo</a>
 </h3>
 
 <br />
