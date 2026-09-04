@@ -32,10 +32,10 @@ You can learn more about the Obby Wiki at this page: https://obby.wiki/OW:About,
 | Project | Description | Latest release |
 | --- | --- | --- |
 | [DynamicJsonLD](https://github.com/obbywiki/mediawiki-extensions-DynamicJsonLD) | Adds a Scribunto Lua API for adding JSON-LD to pages, along with a boilerplate JSON-LD template. | v0.2.0 |
-| [IntegratedProfiles](https://github.com/obbywiki/mediawiki-extensions-IntegratedProfiles) | WIP \| Implements modern user profiles with the ability for other extensions to build on it. | v0.2.0 |
+| [IntegratedProfiles](https://github.com/obbywiki/mediawiki-extensions-IntegratedProfiles) | BETA \| Implements modern user profiles with the ability for other extensions to build on it. | v0.3.0 |
 | [UserFlairs](https://github.com/obbywiki/mediawiki-extensions-UserFlairs) | Adds configurable flairs for user groups. | v0.1.1 |
 | [RobloxPlaceMediaExtractor](https://github.com/obbywiki/mediawiki-extensions-RobloxPlaceMediaExtractor) | *(archived)* This extension is obsolete due to the new OWAF extension \| Quickly and effortless extract thumbnails and icons from Roblox places and universes all through a special page. | v0.4.0 |
-| [WikiWire](https://github.com/obbywiki/wikiwire) | A powerful CI automation tool which can automatically upload and sync modules from your Git repository to your live MediaWiki files. | v0.5.0 |
+| [WikiWire](https://github.com/obbywiki/wikiwire) | A powerful CI automation tool which can automatically upload and sync modules from your Git repository to your live MediaWiki files. | v0.6.0 |
 <!-- PROJECTS:END -->
 
 <br />
