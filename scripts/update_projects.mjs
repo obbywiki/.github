@@ -14,6 +14,7 @@ const PROJECTS = [
   ["DynamicJsonLD", "mediawiki-extensions-DynamicJsonLD"],
   ["IntegratedProfiles", "mediawiki-extensions-IntegratedProfiles"],
   ["UserFlairs", "mediawiki-extensions-UserFlairs"],
+  ["TrendingArticles", "mediawiki-extensions-TrendingArticles"],
   ["RobloxPlaceMediaExtractor", "mediawiki-extensions-RobloxPlaceMediaExtractor"],
   ["WikiWire", "wikiwire"]
 ];
