@@ -32,7 +32,7 @@ You can learn more about the Obby Wiki at this page: https://obby.wiki/OW:About,
 | Project | Description | Latest release |
 | --- | --- | --- |
 | [DynamicJsonLD](https://github.com/obbywiki/mediawiki-extensions-DynamicJsonLD) | Adds a Scribunto Lua API for adding JSON-LD to pages, along with a boilerplate JSON-LD template. | v0.2.1 |
-| [IntegratedProfiles](https://github.com/obbywiki/mediawiki-extensions-IntegratedProfiles) | BETA \| Implements modern user profiles with the ability for other extensions to build on it. | v0.6.0 |
+| [IntegratedProfiles](https://github.com/obbywiki/mediawiki-extensions-IntegratedProfiles) | BETA \| Implements modern user profiles with the ability for other extensions to build on it. | v0.7.0 |
 | [UserFlairs](https://github.com/obbywiki/mediawiki-extensions-UserFlairs) | Adds configurable flairs for MediaWiki user groups, similar to Discourse. | v0.2.0 |
 | [TrendingArticles](https://github.com/obbywiki/mediawiki-extensions-TrendingArticles) | Page views and trending articles in categories for MediaWiki 1.46. | v0.2.0 |
 | [RobloxPlaceMediaExtractor](https://github.com/obbywiki/mediawiki-extensions-RobloxPlaceMediaExtractor) | *(archived)* This extension is obsolete due to the new OWAF extension \| Quickly and effortless extract thumbnails and icons from Roblox places and universes all through a special page. | v0.4.0 |
