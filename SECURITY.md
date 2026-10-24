@@ -18,3 +18,5 @@ What counts as a security vulnerability/issue:
 What does not count as a security concern:
 
 * A traditional bug that degrades user quality but does not affect safety, stability, or integrity.
+
+For alternative methods of contact, please see the footer of <https://obby.wiki/> for socials such as Discord.
