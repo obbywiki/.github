@@ -9,7 +9,7 @@
 <h3 align="center">
   <b><a href="https://obby.wiki">Home</a></b>
   <b>＋</b>
-  <a href="https://obby.wiki/Category:October_2026">October 2026</a>
+  <a href="https://obby.wiki/Category:November_2026">November 2026</a>
   <b>＋</b>
   <a href="https://obby.wiki/Special:Version">Special:Version</a>
   <b>＋</b>
